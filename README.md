@@ -23,5 +23,5 @@ I'm an aspiring IT and Cybersecurity professional based in Winston-Salem, NC, ac
 - Build toward DevSecOps
 
 ## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/Jakeem-Dabney
+- LinkedIn: https://www.linkedin.com/in/jakeem-dabney/
 - TryHackMe: https://tryhackme.com/p/STXCH)
